@@ -1,2 +1,2 @@
-This repository contains  Projects in Data Analytics that I have undertake to demonstrate my experience and expertise in as far as the field is concerned.
-Projects range from Basic Data Wrangling techniques, Visualization techniques and Machine Learnin Techniques.
+This repository contains a Jupyter notebook that shows the basics in Data Visualization. 
+It describes  what visualization is, Why is it important, Describes the common tools used for Visualization finally demonstrates the Basic Data Visualizations in Python by examples.
