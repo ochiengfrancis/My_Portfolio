@@ -1,2 +1,2 @@
-This repository contains jupyter Data Analysis Notebooks of some basic Projects and Python Notebooks that I have undertaken to demonstrate my experience expertise in various 
-aspects of Data Analytics and Decision Science.
+This repository contains  Projects in Data Analytics that I have undertake to demonstrate my experience and expertise in as far as the field is concerned.
+Projects range from Basic Data Wrangling techniques, Visualization techniques and Machine Learnin Techniques.
